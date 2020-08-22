@@ -1,5 +1,5 @@
 # video morphing
-Course Project for CSCE 489/689 - Computational Photography
+Course Project for TAMU CSCE 689 - Computational Photography
 
 
 ![ezgif com-optimize](https://user-images.githubusercontent.com/5975007/90946959-aac9ca80-e3f7-11ea-86c4-f014ff9fbccf.gif)
