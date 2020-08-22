@@ -9,6 +9,6 @@ Course Project for CSCE 489/689 - Computational Photography
 ![of](https://user-images.githubusercontent.com/5975007/90946865-c7b1ce00-e3f6-11ea-9740-04b83887b878.png)
 
 3. Spatiotemporal alignment: find a time interval that the correspoint points are mostly aligned
-<img width="754" alt="align" src="https://user-images.githubusercontent.com/5975007/90946887-09427900-e3f7-11ea-8e9e-3fa5cccd22a6.png">
+![align](https://user-images.githubusercontent.com/5975007/90947030-30e61100-e3f8-11ea-9b1c-e4af89c78377.jpg)
 
 4. Image morphing for each frame in the interval
